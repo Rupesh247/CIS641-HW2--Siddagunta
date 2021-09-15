@@ -1,4 +1,5 @@
 # CIS641-HW2-Siddagunta
 ## Rupesh Siddagunta
--> Quality Analyst
--> Adapdability
+* Web Devoloping
+* Database 
+* Cricket
