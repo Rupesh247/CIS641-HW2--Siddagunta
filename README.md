@@ -3,3 +3,7 @@
 * Web Devoloping
 * Database 
 * Cricket
+### Technical Background
+* Warehouse management using AS400 Database
+* Integration between AS400 and SAP
+* SQL
