@@ -1,6 +1,6 @@
 # CIS641-HW2-Siddagunta
 ## Rupesh Siddagunta
-## Intrests
+## Interests
 * Web Devoloping
 * Database 
 * Cricket
